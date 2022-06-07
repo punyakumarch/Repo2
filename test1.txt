@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is CC72-39A2
+
+ Directory of D:\Punyakumar\Devops\Git\MyProject
+
+07-06-2022  12:51    <DIR>          .
+07-06-2022  12:51    <DIR>          ..
+07-06-2022  12:51                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  517,114,912,768 bytes free
